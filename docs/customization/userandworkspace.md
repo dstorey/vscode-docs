@@ -346,7 +346,7 @@ Below is a copy of the default `settings.json` file.
 	// No unit for zero needed
 	"css.lint.zeroUnits": "ignore",
 
-	// @@font-face rule must define 'src' and 'font-family' properties
+	// @font-face rule must define 'src' and 'font-family' properties
 	"css.lint.fontFaceProperties": "warning",
 
 	// Hex colors must consist of three or six hex numbers
@@ -408,7 +408,7 @@ Below is a copy of the default `settings.json` file.
 	// No unit for zero needed
 	"less.lint.zeroUnits": "ignore",
 
-	// @@font-face rule must define 'src' and 'font-family' properties
+	// @font-face rule must define 'src' and 'font-family' properties
 	"less.lint.fontFaceProperties": "warning",
 
 	// Hex colors must consist of three or six hex numbers
@@ -470,7 +470,7 @@ Below is a copy of the default `settings.json` file.
 	// No unit for zero needed
 	"sass.lint.zeroUnits": "ignore",
 
-	// @@font-face rule must define 'src' and 'font-family' properties
+	// @font-face rule must define 'src' and 'font-family' properties
 	"sass.lint.fontFaceProperties": "warning",
 
 	// Hex colors must consist of three or six hex numbers

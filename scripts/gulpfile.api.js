@@ -60,8 +60,6 @@ gulp.task("generate-api-doc", ["api-doc-json"], function () {
         .pipe(es.mapSync(function (file) {
             var md = doc(file.contents.toString());
             var tpl = common.swigCompiler(TEMPLATE);
-            // escape @ in cshtml 
-            md = md.replace(/@/g, '@@');
             // add a whiteline before a <pre> to workaround https://github.com/markdown-it/markdown-it/issues/187
             md = md.replace(/<pre>/g, '\n<pre>');
 			var result = tpl({Content: md});
