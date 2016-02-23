@@ -47,7 +47,7 @@ You can have up to three editors open side by side.
 
 If you already have one editor open, there are multiple ways of opening another editor to the side of the existing one:
 
-* `kbstyle(Ctrl)` (Mac: `kbstyle('Cmd')`) click on a file in the Explorer
+* `kbstyle(Ctrl)` (Mac: `kbstyle(Cmd)`) click on a file in the Explorer
 * `kb(workbench.action.splitEditor)` to split the active editor into two
 * `Open to the Side` from the Explorer context menu on a file
 
@@ -55,7 +55,7 @@ If you already have one editor open, there are multiple ways of opening another 
 
 Whenever you open another file, the editor that is active will display the content of that file. So if you have two editors side by side and you want to open file 'foo.cs' into the right hand editor, make sure that editor is active (by clicking inside it) before opening file 'foo.cs'.
 
-When you have more than one editor open you can switch between them quickly by holding the `kbstyle(Ctrl)` (Mac: `kbstyle('Cmd')`) key and pressing `1`, `2`, or `3`.
+When you have more than one editor open you can switch between them quickly by holding the `kbstyle(Ctrl)` (Mac: `kbstyle(Cmd)`) key and pressing `1`, `2`, or `3`.
 
 >**Tip:** You can resize editors and reorder them. Drag and drop the editor title area to reposition or resize the editor.
 
