@@ -59,6 +59,8 @@ When you have more than one editor open you can switch between them quickly by h
 
 >**Tip:** You can resize editors and reorder them. Drag and drop the editor title area to reposition or resize the editor.
 
+To optimize space when multiple editors are open, you can drag the vertical splitters between the editors to increase the width of the active editor. Once the inactive editors are below a certain threshold, auto-resizing will be enabled. Just switch focus to another editor, and it will collapse the previously focused editor and expand the newly focused editor to fill the vacated space.
+
 ## Explorer
 
 The Explorer is used to browse, open, and manage all of the files and folders in your project.
